@@ -1,0 +1,8 @@
+react-native-qrcode-scanner
+react-native-scan-view
+react-native-camera
+
+    Step 3: Adding permissions
+    Add the following code to AndroidManifest.xml to access the camera.
+
+        <uses-permission android:name="android.permission.CAMERA" />
