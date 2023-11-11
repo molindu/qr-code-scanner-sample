@@ -7,3 +7,7 @@ find more
 YouTue Link 
         https://www.youtube.com/watch?v=LtbuOgoQJAg
 follow link - https://www.npmjs.com/package/react-native-qrcode-scanner
+# Refresh/ Re-mount scanner
+        * <QRCodeScanner 
+                key={`qr-scanner-${data}`}
+          />
